@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 16 15:17:54 2022
 
-@author: asus
-"""
 
 from src.particle_filter import particle_filter
 
